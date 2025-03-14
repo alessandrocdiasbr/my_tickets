@@ -21,6 +21,7 @@
     "joi": "^17.13.3"
   },
   "devDependencies": {
+    "@faker-js/faker": "^9.6.0",
     "@types/express": "^4.17.21",
     "@types/node": "^20.14.10",
     "prisma": "^5.16.2",
